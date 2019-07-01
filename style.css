@@ -1,0 +1,12 @@
+.square{
+    width: 60px;
+    height: 60px;
+    background-color: #f7f5e9;
+    vertical-align: top;
+}
+
+.circle{
+    width: 55px;
+    height: 55px;
+    background-color: #515050
+}
